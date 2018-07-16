@@ -1,0 +1,41 @@
+onset	duration	route_number	destination	pic_num	segment	response	response_time	response_type	hits
+1	4.3921	7	mail box	44	1	mail box	4.3921	target	1
+5.3921	4.464	8	tree	44	1	tree	4.464	target	1
+9.8561	7.888	6	tree	54	1	mail box	7.888	competitor	0
+17.7441	8.816	5	mail box	74	1	tree	8.816	competitor	0
+26.5601	7.0959	7	mail box	34	1	mail box	7.0959	target	1
+33.656	5.4239	5	mail box	94	2	mail box	5.4239	target	1
+39.08	1.4479	6	tree	4	1	tree	1.4479	target	1
+40.5279	12.984	8	tree	54	1	mail box	12.984	competitor	0
+53.5118	36.104	6	tree	84	2	mail box	36.104	competitor	0
+89.6159	5.552	8	tree	84	2	mail box	5.552	competitor	0
+95.1679	5.104	5	mail box	64	1	tree	5.104	competitor	0
+100.2718	1.776	7	mail box	94	2	mail box	1.776	target	1
+102.0478	2.448	7	mail box	4	1	mail box	2.448	target	1
+104.4959	9.1761	6	tree	24	1	tree	9.1761	target	1
+113.6719	13.44	8	tree	14	1	mail box	13.44	competitor	0
+127.1119	3.344	5	mail box	54	1	mail box	3.344	target	1
+130.4559	4.8319	8	tree	94	2	tree	4.8319	target	1
+135.2878	30.2081	7	mail box	84	2	mail box	30.2081	target	1
+165.4959	8.304	6	tree	64	1	tree	8.304	target	1
+173.7999	6.152	5	mail box	44	1	mail box	6.152	target	1
+179.9519	11.616	6	tree	74	1	tree	11.616	target	1
+191.5679	6.88	5	mail box	34	1	tree	6.88	competitor	0
+198.4479	8.0879	7	mail box	14	1	mail box	8.0879	target	1
+206.5359	3.304	8	tree	74	1	tree	3.304	target	1
+209.8398	2.1841	8	tree	4	1	tree	2.1841	target	1
+212.0239	1.7279	7	mail box	24	1	mail box	1.7279	target	1
+213.7518	13.104	6	tree	44	1	tree	13.104	target	1
+226.8558	5.3679	5	mail box	4	1	mail box	5.3679	target	1
+232.2237	5.08	6	tree	14	1	mail box	5.08	competitor	0
+237.3037	4.3041	8	tree	64	1	mail box	4.3041	competitor	0
+241.6077	19.272	7	mail box	74	1	mail box	19.272	target	1
+260.8797	3.44	5	mail box	84	2	mail box	3.44	target	1
+264.3197	22.288	8	tree	34	1	mail box	22.288	competitor	0
+286.6077	2.688	7	mail box	54	1	mail box	2.688	target	1
+289.2956	3.776	5	mail box	14	1	mail box	3.776	target	1
+293.0717	2.2799	6	tree	94	2	tree	2.2799	target	1
+295.3515	3.3039	6	tree	34	1	tree	3.3039	target	1
+298.6554	4.976	5	mail box	24	1	mail box	4.976	target	1
+303.6314	6	7	mail box	64	1	mail box	6	target	1
+309.6314	7.976	8	tree	24	1	tree	7.976	target	1
