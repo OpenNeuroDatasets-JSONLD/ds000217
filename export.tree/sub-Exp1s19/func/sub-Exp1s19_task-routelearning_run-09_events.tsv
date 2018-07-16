@@ -1,0 +1,11 @@
+onset	duration	trial_type	route_number	destination	test_type	test_picture	test_response	test_RT	test_correct
+9	24	study_trial	7	bank	n/a	0	n/a	0	0
+39	24	study_trial	8	subway	n/a	0	n/a	0	0
+69	24	study_trial	6	door	n/a	0	n/a	0	0
+99	24	study_trial	5	truck	n/a	0	n/a	0	0
+129	0	catch_trial	7	bank	direction	46	right	2.16	1
+148.5	24	study_trial	8	subway	n/a	0	n/a	0	0
+178.5	24	study_trial	5	truck	n/a	0	n/a	0	0
+208.5	24	study_trial	6	door	n/a	0	n/a	0	0
+238.5	24	study_trial	7	bank	n/a	0	n/a	0	0
+268.5	0	catch_trial	6	door	destination	33	door	1.2224	1

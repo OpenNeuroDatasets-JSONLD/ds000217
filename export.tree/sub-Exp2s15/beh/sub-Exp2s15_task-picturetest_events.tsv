@@ -1,0 +1,41 @@
+onset	duration	route_number	destination	pic_num	segment	response	response_time	response_type	hits
+1	4.8794	1	jewelry store	84	1	jewelry store	4.8794	target	1
+5.8794	5.352	4	car	34	1	car	5.352	target	1
+11.2314	3.968	3	jewelry store	64	1	car	3.968	competitor	0
+15.1994	4.144	2	car	4	1	car	4.144	target	1
+19.3434	3.504	2	car	74	1	car	3.504	target	1
+22.8474	1.1999	4	car	14	1	car	1.1999	target	1
+24.0472	11.5599	3	jewelry store	94	2	jewelry store	11.5599	target	1
+35.6071	1.8959	1	jewelry store	4	1	jewelry store	1.8959	target	1
+37.5031	6.3759	4	car	4	1	car	6.3759	target	1
+43.8789	7.92	2	car	44	1	jewelry store	7.92	competitor	0
+51.799	5.8879	1	jewelry store	64	1	jewelry store	5.8879	target	1
+57.6869	1.8399	3	jewelry store	44	1	jewelry store	1.8399	target	1
+59.5268	3.072	1	jewelry store	94	2	car	3.072	competitor	0
+62.5987	3.7519	4	car	54	1	car	3.7519	target	1
+66.3506	3.0319	3	jewelry store	84	1	car	3.0319	competitor	0
+69.3826	5.2319	2	car	54	1	car	5.2319	target	1
+74.6145	1.24	2	car	24	1	car	1.24	target	1
+75.8545	6.1839	3	jewelry store	34	1	jewelry store	6.1839	target	1
+82.0385	11.856	1	jewelry store	14	1	car	11.856	competitor	0
+93.8945	3.8079	4	car	24	1	jewelry store	3.8079	competitor	0
+97.7024	12.464	4	car	94	2	car	12.464	target	1
+110.1663	4.88	1	jewelry store	74	1	jewelry store	4.88	target	1
+115.0463	2.024	3	jewelry store	54	1	jewelry store	2.024	target	1
+117.0703	1.808	2	car	64	1	jewelry store	1.808	competitor	0
+118.8783	3.032	3	jewelry store	4	1	jewelry store	3.032	target	1
+121.9103	6.032	2	car	14	1	car	6.032	target	1
+127.9423	6.736	1	jewelry store	44	1	jewelry store	6.736	target	1
+134.6784	3.7039	4	car	74	1	car	3.7039	target	1
+138.3823	4.4079	4	car	64	1	jewelry store	4.4079	competitor	0
+142.7902	1.7039	3	jewelry store	74	1	jewelry store	1.7039	target	1
+144.4941	1.2799	2	car	34	1	car	1.2799	target	1
+145.774	9.632	1	jewelry store	54	1	jewelry store	9.632	target	1
+155.4059	5.84	4	car	44	1	car	5.84	target	1
+161.2459	4.2319	2	car	94	2	jewelry store	4.2319	competitor	0
+165.4778	4.576	3	jewelry store	14	1	jewelry store	4.576	target	1
+170.0538	2.256	1	jewelry store	34	1	jewelry store	2.256	target	1
+172.3097	3.4239	3	jewelry store	24	1	car	3.4239	competitor	0
+175.7336	5.336	4	car	84	1	car	5.336	target	1
+181.0696	9.288	2	car	84	1	jewelry store	9.288	competitor	0
+190.3576	1.416	1	jewelry store	24	1	jewelry store	1.416	target	1
