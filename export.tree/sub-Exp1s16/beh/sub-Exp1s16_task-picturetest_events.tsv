@@ -1,0 +1,41 @@
+onset	duration	route_number	destination	pic_num	segment	response	response_time	response_type	hits
+1	10.9152	2	restaurant	54	1	restaurant	10.9152	target	1
+11.9152	7.3466	4	call box	64	1	car	7.3466	other	0
+19.2618	2.2274	1	nail salon	34	1	nail salon	2.2274	target	1
+21.4892	4.8264	3	car	4	1	call box	4.8264	other	0
+26.3156	3.3977	3	car	24	1	car	3.3977	target	1
+29.7133	2.0925	1	nail salon	4	1	restaurant	2.0925	other	0
+31.8058	1.1026	2	restaurant	84	2	restaurant	1.1026	target	1
+32.9084	3.4539	4	call box	44	1	call box	3.4539	target	1
+36.3623	1.8451	4	call box	84	2	call box	1.8451	target	1
+38.2074	2.5763	2	restaurant	44	1	nail salon	2.5763	other	0
+40.7837	3.0488	3	car	74	1	car	3.0488	target	1
+43.8325	5.5576	1	nail salon	14	1	restaurant	5.5576	other	0
+49.3901	1.9576	3	car	94	2	car	1.9576	target	1
+51.3477	1.5413	4	call box	94	2	call box	1.5413	target	1
+52.8889	4.9726	2	restaurant	64	1	restaurant	4.9726	target	1
+57.8615	1.2036	1	nail salon	44	1	restaurant	1.2036	other	0
+59.0652	1.1926	1	nail salon	24	1	nail salon	1.1926	target	1
+60.2578	3.7014	3	car	34	1	car	3.7014	target	1
+63.9592	3.375	2	restaurant	74	1	restaurant	3.375	target	1
+67.3342	3.7013	4	call box	14	1	restaurant	3.7013	other	0
+71.0355	2.5762	1	nail salon	54	1	restaurant	2.5762	other	0
+73.6117	29.3857	2	restaurant	14	1	nail salon	29.3857	other	0
+102.9974	4.5339	3	car	14	1	call box	4.5339	other	0
+107.5313	1.1924	4	call box	54	1	call box	1.1924	target	1
+108.7237	1.2262	3	car	44	1	car	1.2262	target	1
+109.95	1.2488	4	call box	4	1	car	1.2488	other	0
+111.1987	4.3089	2	restaurant	34	1	call box	4.3089	other	0
+115.5076	1.755	1	nail salon	84	2	nail salon	1.755	target	1
+117.2627	2.0475	3	car	64	1	car	2.0475	target	1
+119.3102	0.97893	4	call box	74	1	car	0.97893	other	0
+120.2891	1.7213	1	nail salon	64	1	nail salon	1.7213	target	1
+122.0104	5.0514	2	restaurant	4	1	nail salon	5.0514	other	0
+127.0617	3.0037	3	car	84	2	car	3.0037	target	1
+130.0654	11.7679	4	call box	34	1	call box	11.7679	target	1
+141.8333	5.8501	2	restaurant	24	1	nail salon	5.8501	other	0
+147.6834	1.1701	1	nail salon	94	2	nail salon	1.1701	target	1
+148.8535	2.7902	3	car	54	1	car	2.7902	target	1
+151.6436	4.8262	1	nail salon	74	1	nail salon	4.8262	target	1
+156.4698	1.0351	2	restaurant	94	2	restaurant	1.0351	target	1
+157.5049	0.94501	4	call box	24	1	nail salon	0.94501	other	0
