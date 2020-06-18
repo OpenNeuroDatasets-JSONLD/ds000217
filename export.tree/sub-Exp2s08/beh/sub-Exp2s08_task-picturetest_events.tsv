@@ -1,0 +1,41 @@
+onset	duration	route_number	destination	pic_num	segment	response	response_time	response_type	hits
+1	14.3419	7	mail box	14	1	mail box	14.3419	target	1
+15.3419	4.5359	6	tree	74	1	tree	4.5359	target	1
+19.8777	16.12	5	mail box	34	1	tree	16.12	competitor	0
+35.9978	5.2319	8	tree	74	1	tree	5.2319	target	1
+41.2296	4.136	8	tree	94	2	tree	4.136	target	1
+45.3656	9.8559	5	mail box	74	1	tree	9.8559	competitor	0
+55.2215	4.024	7	mail box	54	1	mail box	4.024	target	1
+59.2455	11.3759	6	tree	34	1	mail box	11.3759	competitor	0
+70.6214	2.0799	7	mail box	94	2	mail box	2.0799	target	1
+72.7014	9.5999	6	tree	84	2	tree	9.5999	target	1
+82.3012	2.648	8	tree	64	1	tree	2.648	target	1
+84.9493	10.1519	5	mail box	14	1	tree	10.1519	competitor	0
+95.1012	2.312	8	tree	24	1	mail box	2.312	competitor	0
+97.4131	7.224	5	mail box	24	1	mail box	7.224	target	1
+104.6371	4.8959	7	mail box	34	1	mail box	4.8959	target	1
+109.533	2.928	6	tree	94	2	tree	2.928	target	1
+112.461	3.552	5	mail box	64	1	tree	3.552	competitor	0
+116.013	6.4479	6	tree	14	1	tree	6.4479	target	1
+122.4609	3.1281	7	mail box	44	1	mail box	3.1281	target	1
+125.589	3.744	8	tree	54	1	mail box	3.744	competitor	0
+129.333	5.6	8	tree	14	1	mail box	5.6	competitor	0
+134.933	3.136	5	mail box	4	1	mail box	3.136	target	1
+138.069	7.8401	6	tree	44	1	mail box	7.8401	competitor	0
+145.9091	6.712	7	mail box	84	2	mail box	6.712	target	1
+152.6211	9.256	8	tree	34	1	tree	9.256	target	1
+161.877	5.1119	6	tree	24	1	tree	5.1119	target	1
+166.9889	2.928	5	mail box	84	2	mail box	2.928	target	1
+169.9169	1.52	7	mail box	24	1	mail box	1.52	target	1
+171.4369	2.9759	6	tree	64	1	tree	2.9759	target	1
+174.4128	1.24	5	mail box	94	2	mail box	1.24	target	1
+175.6527	5.056	7	mail box	64	1	mail box	5.056	target	1
+180.7087	4.6641	8	tree	84	2	tree	4.6641	target	1
+185.3728	6.4399	7	mail box	4	1	mail box	6.4399	target	1
+191.8127	4.712	6	tree	54	1	mail box	4.712	competitor	0
+196.5247	1.824	5	mail box	54	1	tree	1.824	competitor	0
+198.3486	2.592	8	tree	4	1	tree	2.592	target	1
+200.9407	10.232	7	mail box	74	1	tree	10.232	competitor	0
+211.1726	3.3279	5	mail box	44	1	tree	3.3279	competitor	0
+214.5006	1.432	6	tree	4	1	tree	1.432	target	1
+215.9326	2.64	8	tree	44	1	tree	2.64	target	1
