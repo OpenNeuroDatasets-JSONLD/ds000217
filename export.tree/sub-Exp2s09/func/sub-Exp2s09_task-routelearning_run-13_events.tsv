@@ -1,0 +1,11 @@
+onset	duration	trial_type	route_number	destination	test_type	test_picture	test_response	test_RT	test_correct
+9	24	study_trial	4	car	n/a	0	n/a	0	0
+39	24	study_trial	4	car	n/a	0	n/a	0	0
+69	0	catch_trial	3	jewelry store	destination	59	jewelry store	1.2556	1
+91.5	24	study_trial	1	jewelry store	n/a	0	n/a	0	0
+121.5	24	study_trial	2	car	n/a	0	n/a	0	0
+151.5	24	study_trial	1	jewelry store	n/a	0	n/a	0	0
+181.5	0	catch_trial	1	jewelry store	direction	20	left	1.5636	1
+195	24	study_trial	2	car	n/a	0	n/a	0	0
+225	24	study_trial	3	jewelry store	n/a	0	n/a	0	0
+255	24	study_trial	3	jewelry store	n/a	0	n/a	0	0
