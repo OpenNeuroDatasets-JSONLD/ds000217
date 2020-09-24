@@ -1,0 +1,11 @@
+onset	duration	trial_type	route_number	destination	test_type	test_picture	test_response	test_RT	test_correct
+9	24	study_trial	5	mail box	n/a	0	n/a	0	0
+39	24	study_trial	5	mail box	n/a	0	n/a	0	0
+69	24	study_trial	8	tree	n/a	0	n/a	0	0
+99	24	study_trial	7	mail box	n/a	0	n/a	0	0
+129	24	study_trial	6	tree	n/a	0	n/a	0	0
+159	24	study_trial	6	tree	n/a	0	n/a	0	0
+189	0	catch_trial	7	mail box	direction	52	right	1.0306	1
+210	0	catch_trial	7	mail box	destination	26	tree	2.2142	0
+225	24	study_trial	7	mail box	n/a	0	n/a	0	0
+255	24	study_trial	8	tree	n/a	0	n/a	0	0

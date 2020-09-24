@@ -1,0 +1,41 @@
+onset	duration	route_number	destination	pic_num	segment	response	response_time	response_type	hits
+1	5.4219	1	nail salon	34	1	restaurant	5.4219	other	0
+6.4219	4.8693	4	call box	74	1	car	4.8693	other	0
+11.2912	3.4798	3	car	44	1	car	3.4798	target	1
+14.7709	11.2	2	restaurant	44	1	nail salon	11.2	other	0
+25.9709	2.568	3	car	64	1	car	2.568	target	1
+28.5389	2.4322	2	restaurant	24	1	nail salon	2.4322	other	0
+30.971	3.0161	1	nail salon	64	1	restaurant	3.0161	other	0
+33.9871	3.6801	4	call box	84	2	call box	3.6801	target	1
+37.6672	3.3919	3	car	4	1	call box	3.3919	other	0
+41.0591	1.5359	4	call box	94	2	call box	1.5359	target	1
+42.5951	15.4879	2	restaurant	54	1	nail salon	15.4879	other	0
+58.083	4.5438	1	nail salon	84	2	nail salon	4.5438	target	1
+62.6268	1.9282	2	restaurant	14	1	restaurant	1.9282	target	1
+64.555	2.6879	4	call box	14	1	call box	2.6879	target	1
+67.2429	1.576	3	car	14	1	car	1.576	target	1
+68.8189	1.3679	1	nail salon	4	1	nail salon	1.3679	target	1
+70.1868	1.6961	3	car	84	2	car	1.6961	target	1
+71.8829	3.752	2	restaurant	34	1	restaurant	3.752	target	1
+75.6349	2.5279	1	nail salon	74	1	restaurant	2.5279	other	0
+78.1628	6.3999	4	call box	44	1	call box	6.3999	target	1
+84.5627	1.576	2	restaurant	64	1	restaurant	1.576	target	1
+86.1387	2.3838	1	nail salon	14	1	nail salon	2.3838	target	1
+88.5226	3.3759	3	car	54	1	call box	3.3759	other	0
+91.8985	3.2559	4	call box	24	1	call box	3.2559	target	1
+95.1544	1.9361	2	restaurant	4	1	restaurant	1.9361	target	1
+97.0904	1.5519	4	call box	64	1	call box	1.5519	target	1
+98.6424	5.5919	1	nail salon	94	2	nail salon	5.5919	target	1
+104.2343	1.536	3	car	74	1	car	1.536	target	1
+105.7703	6.6798	1	nail salon	44	1	nail salon	6.6798	target	1
+112.4501	9.128	2	restaurant	84	2	restaurant	9.128	target	1
+121.5781	2.3199	3	car	24	1	call box	2.3199	other	0
+123.898	2.432	4	call box	54	1	call box	2.432	target	1
+126.33	2.9599	3	car	34	1	car	2.9599	target	1
+129.2899	1.7521	4	call box	4	1	car	1.7521	other	0
+131.042	1.544	2	restaurant	74	1	restaurant	1.544	target	1
+132.586	2.8318	1	nail salon	24	1	restaurant	2.8318	other	0
+135.4178	5.8001	4	call box	34	1	car	5.8001	other	0
+141.2179	1.048	3	car	94	2	car	1.048	target	1
+142.2659	4.744	2	restaurant	94	2	restaurant	4.744	target	1
+147.0099	3.1919	1	nail salon	54	1	nail salon	3.1919	target	1
