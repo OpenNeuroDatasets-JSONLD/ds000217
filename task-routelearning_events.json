@@ -4,7 +4,7 @@
 		"Description": "Trial type",
 		"Levels": {
 			"study_trial": "On study trials participants viewed the route in full",
-			"catch_trial": "Catch trials were instereted to ensure participants were paying actively learning. On catch trials the route would stop at a given picture number (see test_picture) and		participants would be tested on the route (see test_type)"
+			"catch_trial": "Catch trials were instereted to ensure participants were paying actively learning. On catch trials the route would stop at a given picture number (see test_picture) and participants would be tested on the route (see test_type)"
 		}
 	},
 	"route_number": {
